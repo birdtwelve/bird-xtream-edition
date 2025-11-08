@@ -25,7 +25,7 @@ For questions, issues, or information regarding VOD content, please join their D
 **Discord:** [https://discord.gg/qt2JC64E](https://discord.gg/qt2JC64E)
 
 ### 📡 Live TV Content
-Live TV functionality is powered by [**DrewLive**](https://github.com/birdtwelve/bird-iptv), offering a wide range of live television channels.
+Live TV functionality is powered by [**Bird-IPTV**](https://github.com/birdtwelve/bird-iptv), offering a wide range of live television channels.
 
 For Live TV support and discussions:  
 **Discord:** [https://discord.gg/bfzxKzkc](https://discord.gg/bfzxKzkc)
